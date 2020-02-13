@@ -1,2 +1,2 @@
 # ticTacToe
-Tic Tac Toe project for student learners
+Tic Tac Toe project in HTML/CSS/JS
